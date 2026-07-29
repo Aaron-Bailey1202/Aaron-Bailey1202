@@ -1,0 +1,29 @@
+name: Refresh GitSkins
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Refresh GitSkins images
+        run: |
+          sed -i "s/&v=[0-9]*/\&v=$(date +%s)/g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Refresh GitSkins images" || exit 0
+          git push
