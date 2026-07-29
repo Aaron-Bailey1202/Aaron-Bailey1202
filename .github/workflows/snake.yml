@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: Aaron-Bailey1202
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=020617,0f172a,1e3a8a,2563eb,60a5fa&color_snake=a855f7
-            dist/github-contribution-grid-snake-dark.svg?palette=020617,0f172a,1e3a8a,2563eb,60a5fa&color_snake=a855f7
+            dist/github-contribution-grid-snake.svg?color_snake=a855f7&color_dots=%23020617,%230f172a,%231e40af,%233b82f6,%2393c5fd
+            dist/github-contribution-grid-snake-dark.svg?color_snake=a855f7&color_dots=%23020617,%230f172a,%231e40af,%233b82f6,%2393c5fd
             
       - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v4
