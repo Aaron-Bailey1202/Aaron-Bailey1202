@@ -1,22 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Graduate+Software+Engineer;C%23+%26+.NET+Developer;Building+Projects+Every+Week;Always+Learning+Something+New)](https://git.io/typing-svg)
-# Hi, I'm Aaron 👋
+<p align="center">
+  <img src="https://gitskins.com/api/section/hero?username=asamassekou10&theme=neon" alt="Aaron-Bailey1202 hero section" />
+</p>
 
-I'm a Graduate Software Engineer based in the UK with a BSc (Hons) in Computing & IT (2:1).
+<p align="center">
+  <img src="https://gitskins.com/api/section/about?username=asamassekou10&theme=neon" alt="Aaron-Bailey1202 about section" />
+</p>
 
-I'm currently building my C# and .NET skills by working through **The C# Player's Guide** and creating projects to strengthen my software development experience.
+<p align="center">
+  <img src="https://gitskins.com/api/section/stack?username=asamassekou10&theme=neon" alt="Aaron-Bailey1202 stack section" />
+</p>
 
-## 🌱 Currently Learning
+<p align="center">
+  <img src="https://gitskins.com/api/section/stats?username=asamassekou10&theme=neon" alt="Aaron-Bailey1202 stats section" />
+</p>
 
-- C#
-- .NET
-- ASP.NET Core
-- Entity Framework Core
-- SQL Server
-- Git & GitHub
+<p align="center">
+  <img src="https://gitskins.com/api/section/projects?username=asamassekou10&theme=neon" alt="Aaron-Bailey1202 projects section" />
+</p>
 
-## 🚀 Current Goals
+<p align="center">
+  <img src="https://gitskins.com/api/section/social?username=asamassekou10&theme=neon&website=gitskins.com&x=octocat" alt="Aaron-Bailey1202 social section" />
+</p>
 
-- Build a strong C#/.NET portfolio
-- Develop full-stack ASP.NET applications
-- Learn software design patterns and clean architecture
-- Grow as a software engineer through real-world projects
+<p align="center">
+  <img src="https://gitskins.com/api/section/heatmap?username=asamassekou10&theme=neon" alt="Aaron-Bailey1202 heatmap section" />
+</p>
+
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect, Heatmap -->
