@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aaron-Bailey1202/Aaron-Bailey1202/gh-pages/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Aaron-Bailey1202/Aaron-Bailey1202/gh-pages/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="center">
