@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gitskins.com/api/section/social?username=Aaron-Bailey1202&theme=neon&website=gitskins.com&x=octocat" alt="Aaron-Bailey1202 social section" />
+  <img src="https://gitskins.com/api/section/social?username=Aaron-Bailey1202&theme=neon&linkedin=aaron-bailey1202" alt="Aaron-Bailey1202 social section" />
 </p>
 
 <p align="center">
