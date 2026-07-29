@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gitskins.com/api/section/stack?username=Aaron-Bailey1202&theme=neon" alt="Aaron-Bailey1202 stack section" />
+  <img src="https://gitskins.com/api/section/stack?username=Aaron-Bailey1202&theme=neon&v=9999" alt="Aaron-Bailey1202 stack section" />
 </p>
 
 <p align="center">
