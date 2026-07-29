@@ -19,6 +19,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Aaron-Bailey1202/Aaron-Bailey1202/gh-pages/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
   <img src="https://gitskins.com/api/section/social?username=Aaron-Bailey1202&theme=neon&linkedin=aaron-bailey1202&v=1785314003" alt="Aaron-Bailey1202 social section" />
 </p>
 
