@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://gitskins.com/api/section/hero?username=Aaron-Bailey1202&theme=neon&v=1785463780" alt="Aaron-Bailey1202 hero section" />
+  <img src="https://gitskins.com/api/section/hero?username=Aaron-Bailey1202&theme=neon&v=1785550263" alt="Aaron-Bailey1202 hero section" />
 </p>
 
 <p align="center">
-  <img src="https://gitskins.com/api/section/about?username=Aaron-Bailey1202&theme=neon&v=1785463780" alt="Aaron-Bailey1202 about section" />
+  <img src="https://gitskins.com/api/section/about?username=Aaron-Bailey1202&theme=neon&v=1785550263" alt="Aaron-Bailey1202 about section" />
 </p>
 
 <p align="center">
-  <img src="https://gitskins.com/api/section/stack?username=Aaron-Bailey1202&theme=neon&v=1785463780" alt="Aaron-Bailey1202 stack section" />
+  <img src="https://gitskins.com/api/section/stack?username=Aaron-Bailey1202&theme=neon&v=1785550263" alt="Aaron-Bailey1202 stack section" />
 </p>
 
 <p align="center">
-  <img src="https://gitskins.com/api/section/stats?username=Aaron-Bailey1202&theme=neon&v=1785463780" alt="Aaron-Bailey1202 stats section" />
+  <img src="https://gitskins.com/api/section/stats?username=Aaron-Bailey1202&theme=neon&v=1785550263" alt="Aaron-Bailey1202 stats section" />
 </p>
 
 <p align="center">
-  <img src="https://gitskins.com/api/section/projects?username=Aaron-Bailey1202&theme=neon&v=1785463780" alt="Aaron-Bailey1202 projects section" />
+  <img src="https://gitskins.com/api/section/projects?username=Aaron-Bailey1202&theme=neon&v=1785550263" alt="Aaron-Bailey1202 projects section" />
 </p>
 
 <p align="center">
@@ -23,11 +23,11 @@
 </p>
 
 <p align="center">
-  <img src="https://gitskins.com/api/section/social?username=Aaron-Bailey1202&theme=neon&linkedin=aaron-bailey1202&v=1785463780" alt="Aaron-Bailey1202 social section" />
+  <img src="https://gitskins.com/api/section/social?username=Aaron-Bailey1202&theme=neon&linkedin=aaron-bailey1202&v=1785550263" alt="Aaron-Bailey1202 social section" />
 </p>
 
 <p align="center">
-  <img src="https://gitskins.com/api/section/heatmap?username=Aaron-Bailey1202&theme=neon&v=1785463780" alt="Aaron-Bailey1202 heatmap section" />
+  <img src="https://gitskins.com/api/section/heatmap?username=Aaron-Bailey1202&theme=neon&v=1785550263" alt="Aaron-Bailey1202 heatmap section" />
 </p>
 
 <!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect, Heatmap -->
